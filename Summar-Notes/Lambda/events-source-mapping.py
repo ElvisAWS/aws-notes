@@ -71,3 +71,5 @@
         # SQS Fifo
             # Msg with same GroupId will be processed on order
             # Scales to the number of active messages
+
+# NB SNS does not require source mapping because its asynchronous
