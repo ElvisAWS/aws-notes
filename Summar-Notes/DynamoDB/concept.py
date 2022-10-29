@@ -19,3 +19,7 @@
         # Scalar types : String, Number, Binary, Boolean, Null
         # Document types : List, Map
         # Set Types : String set, Number set , Binary set
+# Copy table accross accounts
+    # Use Data Pipeline
+    # Backup and restore
+    # Write ur own code
