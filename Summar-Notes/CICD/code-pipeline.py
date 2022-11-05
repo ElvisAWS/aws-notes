@@ -1,4 +1,9 @@
 
+# Source
+# Build
+# Test
+# Deploy
+    # Codedeploy, ElasticBeanstalk, cloudFormation, ECS, S3
 
 
 # Code Pipeline
